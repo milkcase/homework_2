@@ -1,0 +1,3 @@
+D:/RM/code/homework_2/Tasks/Src/HW_can.cpp:34:6:void CanFilter_Init(CAN_HandleTypeDef*)	56	static
+D:/RM/code/homework_2/Tasks/Src/HW_can.cpp:77:6:void Can_EnableAutoRecovery(CAN_HandleTypeDef*)	16	static
+D:/RM/code/homework_2/Tasks/Src/HW_can.cpp:92:19:HAL_StatusTypeDef CAN_Send_Msg(CAN_HandleTypeDef*, uint8_t*, uint32_t, uint8_t)	48	static

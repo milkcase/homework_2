@@ -1,0 +1,8 @@
+C:/Program Files (x86)/Arm/GNU Toolchain mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/c++/15.3.1/cmath:411:3:constexpr float std::sin(float)	16	static
+D:/RM/code/homework_2/Tasks/ControlTask.cpp:40:6:void ControlTaskInit()	8	static
+D:/RM/code/homework_2/Tasks/ControlTask.cpp:51:6:void MainTask()	40	static
+D:/RM/code/homework_2/Tasks/ControlTask.cpp:100:6:void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef*)	16	static
+D:/RM/code/homework_2/Tasks/ControlTask.cpp:104:6:void CanFeedbackCallback(uint32_t, const uint8_t*)	16	static
+D:/RM/code/homework_2/Tasks/ControlTask.cpp:114:6:void HAL_CAN_RxFifo0MsgPendingCallback(CAN_HandleTypeDef*)	16	static
+D:/RM/code/homework_2/Tasks/ControlTask.cpp:122:1:void __static_initialization_and_destruction_0()	8	static
+D:/RM/code/homework_2/Tasks/ControlTask.cpp:122:1:cpp)	8	static
